@@ -3,7 +3,7 @@ from PIL import Image, ImageFont, ImageDraw
 import random
 import pandas as pd
 
-api_key = '99397087-b601-4262-822a-f5257701480f'
+api_key = ''
 word = "subsequent"
 
 def get_response(url):
